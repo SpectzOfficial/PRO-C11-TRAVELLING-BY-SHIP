@@ -12,7 +12,7 @@ function preload(){
 }
 
 function setup(){
-  createCanvas(400,400);
+  createCanvas(WindowWidth, WindowHeight);
   background("blue");
 
   // Moving background
